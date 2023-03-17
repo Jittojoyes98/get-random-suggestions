@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Manali",
+        "place": "Himachal Pradesh"
+    },
+    {
+        "name": "Leh Ladak",
+        "place": "Kashmir"
+    },
+    {
+        "name": "Coorg",
+        "place": "Karnataka"
+    },
+    {
+        "name": " Andaman",
+        "place": "Andaman & Nicobar"
+    },
+    {
+        "name": "Udaipur",
+        "place": "Rajasthan"
+    },
+    {
+        "name": "Srinagar",
+        "place": "Jammu & Kashmir"
+    },
+    {
+        "name": "Gangtok",
+        "place": "sikkim"
+    },
+    {
+        "name": "Munnar",
+        "place": "Idukki"
+    },
+    {
+        "name": "Mcleodganj",
+        "place": "Himachal Pradesh"
+    },
+    {
+        "name": "Rishikesh",
+        "place": "Haridwar"
+    },
+    {
+        "name":"Nainital",
+        "place":"Nainital"
+    },
+    {
+        "name":"Lonavala",
+        "place":"Maharashtra"
+    }
+]
