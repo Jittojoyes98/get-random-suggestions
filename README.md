@@ -39,4 +39,4 @@ random('tour')
 
 > Please check issues **[here](https://github.com/Jittojoyes98/get-random-suggestions/issues)**!
 
-**[Add More Data](https://github.com/Jittojoyes98/get-random-suggestions/pulls/)** (Recommended for beginners. Just add data ( 2 key value pairs) and create json file based on that and import them)
+**[Add More Data](https://github.com/Jittojoyes98/get-random-suggestions/pulls/)** (Recommended for beginners. Just add data ( 2 key value pairs) and create json file based on that and import them. You can edit the current data as well.)
