@@ -17,9 +17,9 @@ yarn add get-random-suggestions
 ## Usage
 
 ```js
-const random = require('get-random-suggestions')
+const random = require("get-random-suggestions");
 
-random('tour')
+random("tour");
 ```
 
 ## Response
@@ -28,8 +28,8 @@ random('tour')
 
 ```json
 {
-  "name": "Manali",
-  "place": "Himachal Pradesh"
+  "area": "Chhattisgarh",
+  "place": "Patna"
 }
 ```
 

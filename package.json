@@ -1,6 +1,6 @@
 {
   "name": "get-random-suggestions",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Giving you random suggestions based on search parameters",
   "main": "index.js",
   "scripts": {
